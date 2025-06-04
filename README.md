@@ -1,1 +1,2 @@
-# quick-delivery-project
+# quick-delivery-project  (Groco)
+Designed and developed Groco, a fast and user-friendly grocery delivery website that ensures fresh groceries delivered to your doorstep in just 10 minutes. The site features a clean, intuitive interface with easy navigation, quick search, and a seamless checkout process. Key highlights include real-time order tracking, personalized recommendations, and secure payment options. Groco is optimized for both desktop and mobile users, providing a smooth shopping experience for busy customers who value speed and convenience.
